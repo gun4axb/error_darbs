@@ -1,14 +1,14 @@
 <?php
 
-    $serverName = "localhost";
-    $dBUserName = "root";
-    $dBPassword = "";
-    $dBName = "phpproject01";
+    // $serverName = "localhost";
+    // $dBUserName = "root";
+    // $dBPassword = "";
+    // $dBName = "phpproject01";
 
-    $conn = mysqli_connect($serverName, $dBUserName, $dBPassword, $dBName);
+    // $conn = mysqli_connect($serverName, $dBUserName, $dBPassword, $dBName);
 
-    if (!$conn){
-        die("Connection Failed: ". mysqli_connect_error());
-    }
+    // if (!$conn){
+    //     die("Connection Failed: ". mysqli_connect_error());
+    // }
 
 ?>
