@@ -17,3 +17,4 @@ hamburgerMenu.onclick = () => {
     nav.classList.toggle("active");
 }
 // test -- Dāvis
+// Reinis - Aenemaa
