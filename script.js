@@ -16,3 +16,4 @@ const nav = document.querySelector("nav"); //active ir jāpiešķir vecāka elem
 hamburgerMenu.onclick = () => {
     nav.classList.toggle("active");
 }
+// test -- Dāvis
