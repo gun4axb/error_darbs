@@ -4,8 +4,8 @@
 
     if(isset($_POST['submit'])){
 
-        $name = test_input($_POST['name']);
-        $email = test_input($_POST['email']);
+        $name = test_input($_POST['name']); //Kiracy
+        $email = test_input($_POST['email']); //comment2
         $uid = test_input($_POST['uid']);
         $pwd = $_POST['pwd'];
 
