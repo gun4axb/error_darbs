@@ -20,3 +20,4 @@ hamburgerMenu.onclick = () => {
 // Reinis - Aenemaa
 // Rainers - was here
 // Gundars is testing 
+//cherryblossoms- beate
