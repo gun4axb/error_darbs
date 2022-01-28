@@ -19,3 +19,4 @@ hamburgerMenu.onclick = () => {
 // test -- Dāvis
 // Reinis - Aenemaa
 // Rainers - was here
+// Gundars is testing 
