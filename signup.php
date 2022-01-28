@@ -20,6 +20,9 @@
         } elseif (!filter_var($email, FILTER_VALIDATE_EMAIL)){
             $errors["email"] = "Invalid email format";
         }
+        if (empty($uid)) {
+            $errors['uid'] = "Enter your username";
+        }
         if (empty($pwd)) {
             $errors['pwd'] = "Enter password";
         }
