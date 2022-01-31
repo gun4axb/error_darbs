@@ -14,9 +14,15 @@
                 <div>
                     <h3>Bruteforce</h3>
                 </div>
+
+
                 <div>
+                <a href="XSS.php">
                     <h3>XSS uzbrukums</h3>
+                </a>
                 </div>
+
+
                 <div>
                     <h3>SQL injekcija</h3>
                 </div>
