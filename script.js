@@ -19,6 +19,8 @@ hamburgerMenu.onclick = () => {
 // test -- Dāvis
 // Reinis - Aenemaa
 // Arturs --dorime.
+// test -- Dāvis - Bruh
+// Reinis - Aenemaa
 // Rainers - was here
 // Gundars is testing 
 //cherryblossoms- beate
