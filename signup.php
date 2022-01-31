@@ -26,9 +26,6 @@
         if (empty($pwd)) {
             $errors['pwd'] = "Enter password";
         }
-        if (empty($pwdrepeat)) {
-            $errors['pwdrepeat'] = "Enter your password again";
-        }
         if(empty($errors)){
             $query = "INSERT INTO 'users' ('name', 'email', 'uid', 'pwd') VALUES ('$name', '$email', '$uid', '$pwd')";
             mysqli_query($conn, $query);
